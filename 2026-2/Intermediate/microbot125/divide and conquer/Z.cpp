@@ -24,4 +24,6 @@ int main () {
         two_square /= 2;
     }
     cout << total << endl;
+
+    return 0;
 }
