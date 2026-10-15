@@ -45,4 +45,6 @@ int main() {
 
     if (min == INT32_MAX) cout << "-1" << endl;
     else cout << min << endl;
+
+    return 0;
 }
